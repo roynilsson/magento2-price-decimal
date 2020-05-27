@@ -4,6 +4,7 @@
         <catalog_price_decimal>
             <general>
                 <price_precision>2</price_precision>
+                <disable_for_actions>checkout_klarna_index</disable_for_actions>
             </general>
         </catalog_price_decimal>
     </default>
